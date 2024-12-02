@@ -145,7 +145,7 @@ header nav {
     min-width: 240px;
     max-width: 240px;
 }
-
+/*modificar para que funcione en el teefono */
 @media (max-width:600px){
     .imagenes{
         columns: 2 180px; 
