@@ -140,13 +140,34 @@ header nav {
     position: relative;
     padding: 6px;
 }
-
 .card-image img {
     border-radius: 15px;
     min-width: 240px;
     max-width: 240px;
 }
 
+@media (max-width:1200px){
+    .imagenes{
+        columns: 3 200px;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+.card-image img {
+    border-radius: 15px;
+    min-width: 180px;
+    max-width: 200px;
+}
+}
+@media (max-width:450px){
+    .imagenes{
+        columns: 2 180px; 
+    }
+.card-image img {
+    border-radius: 15px;
+    min-width: 100px;
+    max-width: 180px;
+}
+}
 .card-image:hover> :first-child {
     filter: brightness(60%);
 }
