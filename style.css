@@ -146,17 +146,10 @@ header nav {
     max-width: 240px;
 }
 
-@media (max-width:1200px){
+@media (max-width:600px){
     .imagenes{
-        columns: 3 200px;
-        margin-left: 2%;
-        margin-right: 2%;
+        padding:10px;
     }
-.card-image img {
-    border-radius: 15px;
-    min-width: 180px;
-    max-width: 200px;
-}
 }
 @media (max-width:450px){
     .imagenes{
