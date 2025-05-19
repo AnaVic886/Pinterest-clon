@@ -1,4 +1,4 @@
-¡Hola! soy **Ana Victoria Gómez** Tecnologa en Alimentos y especialista en microocomputadoras, actualmente enfocada en la tecnologia, estudiante de desarrollo fronted en Tecnolochicas PRO para adquirir mas conocimientos y habilidades en desarrollo web.
+¡Hola! soy **Ana Victoria** Tecnologa en Alimentos y Científica de Datos, actualmente enfocada en la tecnologia, estudiante de desarrollo fronted en Tecnolochicas PRO para adquirir mas conocimientos y habilidades en desarrollo web.
 ______
 # Pinterest-clon
  Es un proyecto creado en Tecnolochicas PRO simulando la pagina principal de Pinterest
